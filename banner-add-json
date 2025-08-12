@@ -7,21 +7,7 @@
       "message": "35% Off for August - Served by experts",
       "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/images/p.png",
       "link": ""
-    },
-    {
-      "id": 2,
-      "enabled": false,
-      "title": "Free Health Checkup Camp",
-      "message": "Join us for a free camp on 15th August",
-      "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/images/banner2.png"
-    },
-    {
-      "id": 3,
-      "enabled": true,
-      "title": "Special Discount on Medicines",
-      "message": "Flat 20% off on selected medicines",
-      "image": "https://raw.githubusercontent.com/USERNAME/REPO/main/images/banner3.png",
-      "link": "https://yourwebsite.com/discount"
     }
+   
   ]
 }
